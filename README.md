@@ -118,7 +118,4 @@ Smart Academy/
 ## Contact
 - Website: [Smart Academy](https://smart-academy.com)
 - Email: contact@smart-academy.com
-- GitHub: [@Osamahfm](https://github.com/Osamahfm)
-
----
-Created with ❤️ by [Osama](https://github.com/Osamahfm)
+- GitHub: https://github.com/Khalidm0
